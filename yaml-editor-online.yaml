@@ -1,0 +1,4 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^5.4.5
